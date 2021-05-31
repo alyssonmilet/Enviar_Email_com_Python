@@ -17,7 +17,7 @@ try:
     host = "smtp.gmail.com"
     porta = "587"
     login = "emaildeexemplo.python@gmail.com"
-    senha = "123@#$345
+    senha = "123@#$345"
     
     servidor = smtplib.SMTP(host,porta)
 
